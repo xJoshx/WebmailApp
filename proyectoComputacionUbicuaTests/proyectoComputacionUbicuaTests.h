@@ -1,0 +1,13 @@
+//
+//  proyectoComputacionUbicuaTests.h
+//  proyectoComputacionUbicuaTests
+//
+//  Created by Jose Luis Vizcaíno on 22/04/13.
+//  Copyright (c) 2013 computaciónUbicua. All rights reserved.
+//
+
+#import <SenTestingKit/SenTestingKit.h>
+
+@interface proyectoComputacionUbicuaTests : SenTestCase
+
+@end
