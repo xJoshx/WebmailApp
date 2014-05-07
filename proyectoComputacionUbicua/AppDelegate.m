@@ -7,8 +7,17 @@
 //
 
 #import "AppDelegate.h"
+#import "Messages.h"
+#import "messagesViewController.h"
 
-@implementation AppDelegate
+#import "Activity.h"
+#import "Calendar.h"
+#import "Subject.h"
+
+@implementation AppDelegate{
+}
+
+@synthesize window = _window;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
